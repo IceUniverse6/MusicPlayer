@@ -1,4 +1,5 @@
 #pragma once
+#include<iostream>
 #include<vector>
 #include"Music.h"
 class PlayList
