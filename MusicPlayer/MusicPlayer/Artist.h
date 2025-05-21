@@ -18,8 +18,8 @@ public:
 	void set_number_of_albums(int);
 	void set_number_of_released_songs(int);
 
-	void add_song();
-	void remove_song();
+	void add_song(Music);
+	void remove_song(int);
 
 	std::string get_artist_name()const;
 	int get_number_of_albums()const;
