@@ -130,6 +130,7 @@
     <ClCompile Include="Admin.cpp" />
     <ClCompile Include="Artist.cpp" />
     <ClCompile Include="BaseUser.cpp" />
+    <ClCompile Include="DataBase.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Music.cpp" />
     <ClCompile Include="PlayList.cpp" />
@@ -139,6 +140,7 @@
     <ClInclude Include="Admin.h" />
     <ClInclude Include="Artist.h" />
     <ClInclude Include="BaseUser.h" />
+    <ClInclude Include="DataBase.h" />
     <ClInclude Include="Music.h" />
     <ClInclude Include="PlayList.h" />
     <ClInclude Include="User.h" />
