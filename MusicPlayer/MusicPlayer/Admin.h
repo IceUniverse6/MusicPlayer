@@ -29,9 +29,11 @@ public:
 	void remove_artist_page();
 
 	void add_song_for_artist();
+	void add_song_for_artist(std::shared_ptr<Artist>);
 	void remove_song_for_artist();
 
 	void add_play_list_for_artist();
+	void add_play_list_for_artist(std::shared_ptr<Artist>);
 	void remove_play_list_for_artist();
 
 	void show_added_songs()const;
